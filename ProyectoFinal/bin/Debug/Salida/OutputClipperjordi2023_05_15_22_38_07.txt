@@ -1,0 +1,6 @@
+a  Iden  0
+= CarEsp
+2;  CteEnt  0
+b  Iden  1
+= CarEsp
+56; 56 CteEnt  1
